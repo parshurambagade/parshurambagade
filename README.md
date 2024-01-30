@@ -1,8 +1,8 @@
-[![MasterHead](https://www.canva.com/design/DAF7Y36CtTE/uiXfJ7N7qO7WWKOagqPAqw/edit?utm_content=DAF7Y36CtTE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://mrparshu.live/)
+[![MasterHead](https://github.com/parshurambagade/parshurambagade/blob/master/Colorful%20Shapes%20Header%20Banner.gif)](https://mrparshu.live/)
 
 <h1 align="center">Hi 👋, I'm Parshuram Bagade</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="animated developer"  width="400" />
+<img align="right" src="https://raw.githubusercontent.com/parshurambagade/parshurambagade/2f426722e7403acaf834a798cf74e986920ade55/undraw_programming_re_kg9v.svg" alt="animated developer"  width="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parshurambagade&label=Profile%20views&color=0e75b6&style=flat" alt="parshurambagade" /> </p>
 
 
