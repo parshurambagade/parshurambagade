@@ -1,8 +1,8 @@
 [![MasterHead](https://github.com/parshurambagade/parshurambagade/blob/master/bg.png)](https://mrparshu.live/)
 
-<img align="right" src="https://raw.githubusercontent.com/parshurambagade/parshurambagade/2f426722e7403acaf834a798cf74e986920ade55/undraw_programming_re_kg9v.svg" alt="animated developer"  width="400" />
+<img align="right" src="https://cdn-galgk.nitrocdn.com/eWYpNSqDToNXmwTaRFsxxdJHggjXnETi/assets/static/optimized/wp-content/uploads/2022/05/5619588bdbcb4482ff928274fb80f0a2.programmer-animation.gif" alt="animated developer"  width="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parshurambagade&label=Profile%20views&color=0e75b6&style=flat" alt="parshurambagade" /> </p>
-
+https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA
 - 🔭 I’m currently working on [NetflixGPT](https://github.com/parshurambagade/netflix-gpt)
 
 - 🌱 I’m currently learning **React.js, TypeScript**
