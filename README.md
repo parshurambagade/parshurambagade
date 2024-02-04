@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/parshurambagade/parshurambagade/blob/master/Colorful%20Shapes%20Header%20Banner.gif)](https://mrparshu.live/)
+[![MasterHead](https://github.com/parshurambagade/parshurambagade/blob/master/bg.png)](https://mrparshu.live/)
 
 <h1 align="center">Hi 👋, I'm Parshuram Bagade</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
