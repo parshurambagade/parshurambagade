@@ -1,10 +1,7 @@
 [![MasterHead](https://github.com/parshurambagade/parshurambagade/blob/master/bg.png)](https://mrparshu.live/)
 
-<h1 align="center">Hi 👋, I'm Parshuram Bagade</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://raw.githubusercontent.com/parshurambagade/parshurambagade/2f426722e7403acaf834a798cf74e986920ade55/undraw_programming_re_kg9v.svg" alt="animated developer"  width="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parshurambagade&label=Profile%20views&color=0e75b6&style=flat" alt="parshurambagade" /> </p>
-
 
 - 🔭 I’m currently working on [NetflixGPT](https://github.com/parshurambagade/netflix-gpt)
 
