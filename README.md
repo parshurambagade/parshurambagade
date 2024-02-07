@@ -3,7 +3,7 @@
 <img align="right" src="https://cdn-galgk.nitrocdn.com/eWYpNSqDToNXmwTaRFsxxdJHggjXnETi/assets/static/optimized/wp-content/uploads/2022/05/5619588bdbcb4482ff928274fb80f0a2.programmer-animation.gif" alt="animated developer"  width="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parshurambagade&label=Profile%20views&color=0e75b6&style=flat" alt="parshurambagade" /> </p>
 
-- 🔭 I’m currently working on [NetflixGPT](https://github.com/parshurambagade/netflix-gpt)
+- 🔭 I’m currently learning JavaScript with [Namaste JavaScript](https://github.com/parshurambagade/namaste-javascript)
 
 - 🌱 I’m currently learning **React.js, TypeScript**
 
